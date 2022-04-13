@@ -1,3 +1,7 @@
 # fitst-repo
+This project is to learn about git.
+
 ## Index
-Who 
+
+- Who am I?
+- What I do?
